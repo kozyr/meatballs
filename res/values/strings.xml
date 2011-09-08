@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MeatBallTracker!</string>
+    <string name="app_name">MeatBall Tracker</string>
+    <string name="notification_text">Meatballs found!</string>
+    <string name="notification_title">Select to see meatball truck location</string>
+    <string name="unknown">Unknown</string>
+    <string name="location_text">Meatyballs are @</string>
+    <string name="out_of_service">Meatyballs are not serving right now...</string>
+    <string name="refresh_text">Looking...</string>
+</resources>
